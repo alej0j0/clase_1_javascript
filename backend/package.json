@@ -1,0 +1,16 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "emular un carrito de compras",
+  "main": "index.js",
+  "scripts": {
+    "start": "node funcion_arrow.js",
+    "dev":"nodemon funcion_arrow.js" 
+  },
+  "author": "Samuel Vidal",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
